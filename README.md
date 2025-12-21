@@ -38,7 +38,7 @@ This project allows adding employees, calculating salary, generating payslips, v
 payroll.emp_id → emp_detail.id
 
 🛠️ Tech Stack
-Layer	Technology
+Layer	Technology: 
 Programming Language->	Java (Core Java, OOP)
 Database->	MySQL
 Database Connectivity->	JDBC
