@@ -6,35 +6,35 @@ This project allows adding employees, calculating salary, generating payslips, v
 🚀 Features
 👤 Employee Management
 
-Add new employee
+-> Add new employee
 
-View all employees
+-> View all employees
 
-Delete employee
+-> Delete employee
 
-Fetch last inserted employee
+->Fetch last inserted employee
 
 💰 Payroll Management
 
-Calculate Gross Salary
+-> Calculate Gross Salary
 
-Calculate Net Salary
+-> Calculate Net Salary
 
-Insert payroll details into table
+-> Insert payroll details into table
 
-Generate employee salary slips
+-> Generate employee salary slips
 
 🗄️ Database Integration
 
-Uses MySQL + JDBC
+-> Uses MySQL + JDBC
 
-Two main tables:
+-> Two main tables:
 
-emp_detail
+-> emp_detail
 
-payroll
+-> payroll
 
-Foreign key relationship:
+-> Foreign key relationship:
 payroll.emp_id → emp_detail.id
 
 🛠️ Tech Stack
